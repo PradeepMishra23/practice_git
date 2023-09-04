@@ -38,3 +38,8 @@ git add <filename/foldername>
  
  git branch -d <branch-name> ===== We can delete multiple branch also at a time
  
+ git reset --> changes revert from staging to working directory 
+ 
+ git reset --mixed 
+ 
+ git reset --hard --- > 
