@@ -1,2 +1,2 @@
 # practice_git
-commit 1
+commit1
