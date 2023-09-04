@@ -42,4 +42,4 @@ git add <filename/foldername>
  
  git reset --mixed 
  
- git reset --hard --- > 
+ git reset --hard --- > lost 
