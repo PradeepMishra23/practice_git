@@ -29,3 +29,12 @@ local Repository -- git commit
 Remote Repository -- git push
 
 git log -2 === Show last 2 commits (git log used for comparing latest commit of Remote Repository with local Repository)
+
+git add <filename/foldername>
+
+ git branch <branch-name> OR git checkout -b <branch-name> ==== Create new branch 
+ 
+ git switch <branch-name> OR git checkout -b <branch-name> ==== switch branches
+ 
+ git branch -d <branch-name> ===== We can delete multiple branch also at a time
+ 
