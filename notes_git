@@ -1,0 +1,31 @@
+git clone https://github.com/PradeepMishra23/practice_git.git
+cd practice_git/
+ls -ltrh
+git config
+git config --global user.name pradeep
+git config --global user.email pradeep@gmail.com
+git remote -v
+git global --list
+git global list
+git global help
+git config --list
+git status
+ls -al
+ls -ltrh
+vi README.md
+cat README.md
+git status
+git log -2
+git add README.md
+git status
+git commit -m "commit 1"
+git log -2   ==== to check previous commit
+git remote -v ===== to check git push/fetch URL same as git clone URL
+git push
+
+Working directory  ----- increamental changes to the file (Color: RED) check with git status
+Staging -- git add (Color: GREEN) check with git status
+local Repository -- git commit 
+Remote Repository -- git push
+
+git log -2 === Show last 2 commits (git log used for comparing latest commit of Remote Repository with local Repository)
