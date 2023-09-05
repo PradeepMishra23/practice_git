@@ -43,3 +43,5 @@ git add <filename/foldername>
  git reset --mixed 
  
  git reset --hard --- > lost 
+ 
+ git push --set-upstream origin <branch-name>  --> Need to push new branch (created locally) to remote repository 
